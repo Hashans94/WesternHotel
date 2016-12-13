@@ -10,8 +10,8 @@ Western Hotel project is a result of an University Assignment and this has been 
 
 2. Admin Logins:
 
-U: admin@westernHotel.com
-P: Pa$$word1
+<ul><li>U: admin@westernHotel.com</li>
+<li>P: Pa$$word1</li></ul>
 
    User Logins:
 
