@@ -19,9 +19,8 @@ Western Hotel project is a result of an University Assignment and this has been 
 
 <ul>
    <li>
-    U: user@westernHotel.com</li>
+    <li>U: user@westernHotel.com</li>
     <li>P: Pa$$word1</li>
-<<<<<<< HEAD
     <br/>
     <li>U: newuser@newuser.com</li>
     <li>P: Login@123</li>
@@ -49,35 +48,6 @@ Western Hotel project is a result of an University Assignment and this has been 
     <br>
     <li>U: trinity@matrix.com</li>
     <li>P: Login@123</li>
-=======
-    <hr/>
-    U: newuser@newuser.com
-    P: Login@123
-    
-    U: ishan97@gmail.com
-    P: Cross@123
-    
-    U: hashan@gmail.com
-    P: Login@123
-    
-    U: jacob@gmail.com
-    P: Login@123
-    
-    U: karl@mini.com
-    P: Login@123
-    
-    U: nav@peace.com
-    P: Login@123
-    
-    U: josh@yahoo.com
-    P: Login@123
-    
-    U: aiden@aol.com
-    P: Login@123
-    
-    U: trinity@matrix.com
-    P: Login@123
->>>>>>> origin/secondary-branch
     </ul>
 
 
