@@ -4,7 +4,7 @@ Western Hotel project is a result of an University Assignment and this has been 
 
 <h2>Read Me</h2>
 
-<h4> Starting Page:</h4>h4>
+<h4> Starting Page:</h4>
 	- Default.aspx
 
 
