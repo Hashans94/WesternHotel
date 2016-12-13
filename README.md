@@ -18,7 +18,6 @@ Western Hotel project is a result of an University Assignment and this has been 
 3. User Logins:
 
 <ul>
-   <li>
     <li>U: user@westernHotel.com</li>
     <li>P: Pa$$word1</li>
     <br/>
