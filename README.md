@@ -4,18 +4,18 @@ Western Hotel project is a result of an University Assignment and this has been 
 
 <h2>Read Me</h2>
 
-1. Starting Page:
+<h4> Starting Page:</h4>h4>
 	- Default.aspx
 
 
-2. Admin Logins:
+<h4>Admin Logins:</h4>
 
 <ul>
 <li>U: admin@westernHotel.com</li>
 <li>P: Pa$$word1</li>
 </ul>
 
-3. User Logins:
+<h4>User Logins:</h4>
 
 <ul>
     <li>U: user@westernHotel.com</li>
